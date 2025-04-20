@@ -1,16 +1,56 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Nuhash Wahed</h1>
+<h3 align="center">A passionate software developer & aspiring researcher in NLP & Fake News Detection</h3>
 
-<!--
-**NuhashWahed/NuhashWahed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on: **An E-commerce Web App using Django & JavaScript**
+- 🌱 I’m currently learning: **Angular, .NET, FastAPI**
+- 💼 I’m looking for a **Software Developer** role
+- 👨‍💻 Check out my portfolio and research:  
+  [My Research Paper](https://peerj.com/articles/cs-1669) 
+- 📫 Reach me at: **nwahed1999@gmail.com**
+- 📄 Know more about me: [Resume/CV](https://github.com/NuhashWahed/NuhashWahed/blob/main/Nuhash(CV).pdf)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Skills & Tools
+
+![Python](https://img.shields.io/badge/-Python-333?style=for-the-badge&logo=python)
+![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git)
+
+---
+
+## 📌 Featured Projects
+
+### 🛍️ E-Commerce Website
+> Built with Django, JS, Bootstrap, and localStorage
+
+![ecommerce](https://raw.githubusercontent.com/your-username/your-repo-name/main/screenshots/ecommerce.gif)
+
+🔗 [View Repository](#)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nuhashwahed&show_icons=true&theme=tokyonight" alt="stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nuhashwahed&theme=tokyonight" alt="streak" />
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="mailto:nwahed1999@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://linkedin.com/in/nuhashwahed"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/nuhashwahed"><img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
