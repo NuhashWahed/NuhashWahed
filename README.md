@@ -2,9 +2,9 @@
 <h3 align="center">A passionate software developer & aspiring researcher in NLP & Fake News Detection</h3>
 
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-- 🔭 I’m currently working on: **An E-commerce Web App using Django & JavaScript**
-- 🌱 I’m currently learning: **Angular, .NET, FastAPI**
+- 🌱 I’m working as an IT Executive (Software Development) in Designer Fashion Ltd**
+- 🌱 I’m currently learning: **Angular, .NET, FastAPI, PHP**
+- 🔭 I worked on: **An E-commerce Web App using Django, HTML, CSS & JavaScript**
 - 💼 I’m looking for a **Software Developer** role
 - 👨‍💻 Check out my portfolio and research:  
   [My Research Paper](https://peerj.com/articles/cs-1669) 
