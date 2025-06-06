@@ -5,7 +5,8 @@
 
 
 - 🌱 I’m working as an IT Executive (Software Development) in Designer Fashion Ltd**
-- 🌱 I’m currently learning: **Angular, .NET, FastAPI, PHP**
+- 🌱 In my organization, I'm contributing to develop ERP System
+- 🌱 I’m currently learning: **Angular, .NET, FastAPI, PHP, React**
 - 🔭 I worked on: **An E-commerce Web App using Django, HTML, CSS & JavaScript**
 - 💼 I’m looking for a **Software Developer** role
 - 👨‍💻 Check out my portfolio and research:  
